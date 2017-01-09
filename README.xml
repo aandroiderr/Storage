@@ -539,15 +539,4 @@
     <end>619</end>
     <direction>1</direction>
   </item>
-  <item>
-    <id>50</id>
-    <name>ハイスクール編 No.050</name>
-    <image1>wp_0050.jpg</image1>
-    <image2>wp_0050.jpg</image2>
-    <voice></voice>
-    <rarity>4</rarity>
-    <start>620</start>
-    <end>623</end>
-    <direction>1</direction>
-  </item>
 </items>
