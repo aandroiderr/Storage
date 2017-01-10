@@ -1,6 +1,6 @@
 <?xml version=1.0?>
-<total>5</total>
-<denominator>50</denominator>
+<total>50</total>
+<denominator>623</denominator>
 <wallpapers>
   <wallpaper>
     <id>1</id>
@@ -57,4 +57,499 @@
     <end>50</end>
     <direction>1</direction>
   </wallpaper>
-  </wallpapers>
+  <wallpaper>
+    <id>6</id>
+    <name>ハイスクール編 No.006</name>
+    <image1>ufPTVaC9.dat</image1>
+    <image2>B3qz6vy2.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>51</start>
+    <end>64</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>7</id>
+    <name>ハイスクール編 No.007</name>
+    <image1>lYDu8vHF.dat</image1>
+    <image2>JvtbV10J.dat</image2>
+    <voice>itakiss2.wav</voice>
+    <rarity>0</rarity>
+    <start>65</start>
+    <end>85</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>8</id>
+    <name>ハイスクール編 No.008</name>
+    <image1>9ZrEZY9D.dat</image1>
+    <image2>R32PZU7Z.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>86</start>
+    <end>99</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>9</id>
+    <name>ハイスクール編 No.009</name>
+    <image1>yek7doC7.dat</image1>
+    <image2>MjkS8BFv.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>100</start>
+    <end>120</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>10</id>
+    <name>ハイスクール編 No.010</name>
+    <image1>uWCTOL0p.dat</image1>
+    <image2>w6MXuJFe.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>121</start>
+    <end>141</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>11</id>
+    <name>ハイスクール編 No.011</name>
+    <image1>8AVf0or6.dat</image1>
+    <image2>qx8Xoeol.dat</image2>
+    <voice>itakiss3.wav</voice>
+    <rarity>0</rarity>
+    <start>142</start>
+    <end>162</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>12</id>
+    <name>ハイスクール編 No.012</name>
+    <image1>UU3GiOl0.dat</image1>
+    <image2>0Yj0ugmi.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>163</start>
+    <end>169</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>13</id>
+    <name>ハイスクール編 No.013</name>
+    <image1>vQ5WqNka.dat</image1>
+    <image2>4ZxtDelL.dat</image2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>170</start>
+    <end>177</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>14</id>
+    <name>ハイスクール編 No.014</name>
+    <image1>PEm1mojV.dat</image1>
+    <image2>HrhZWMmI.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>178</start>
+    <end>184</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>15</id>
+    <name>ハイスクール編 No.015</name>
+    <image1>3MtcmTqQ.dat</image1>
+    <image2>9qdrKPGj.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>185</start>
+    <end>198</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>16</id>
+    <name>ハイスクール編 No.016</name>
+    <image1>CYfXTN4K.dat</image1>
+    <image2>0ikWHyO0.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>199</start>
+    <end>212</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>17</id>
+    <name>ハイスクール編 No.017</name>
+    <image1>daK3IVTF.dat</image1>
+    <image2>3EOTElxu.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>213</start>
+    <end>219</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>18</id>
+    <name>ハイスクール編 No.018</name>
+    <image1>JCkvOjMX.dat</image1>
+    <image2>lk8UHSSI.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>220</start>
+    <end>233</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>19</id>
+    <name>ハイスクール編 No.019</name>
+    <image1>mNyyqdSa.dat</image1>
+    <image2>bqZSe35R.dat</image2>
+    <voice>itakiss4.wav</voice>
+    <rarity>0</rarity>
+    <start>234</start>
+    <end>254</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>20</id>
+    <name>ハイスクール編 No.020</name>
+    <image1>xphI1cA6.dat</image1>
+    <image2>7ikUQ1Hn.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>255</start>
+    <end>268</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>21</id>
+    <name>ハイスクール編 No.021</name>
+    <image1>WrzJm1yR.dat</image1>
+    <image2>WxoppduW.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>269</start>
+    <end>289</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>22</id>
+    <name>ハイスクール編 No.022</name>
+    <image1>t7KBqKEJ.dat</image1>
+    <image2>J0BY1isw.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>290</start>
+    <end>303</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>23</id>
+    <name>ハイスクール編 No.023</name>
+    <image1>kTpBsD3i.dat</image1>
+    <image2>LMGw48Th.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>304</start>
+    <end>317</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>24</id>
+    <name>ハイスクール編 No.024</name>
+    <image1>VvodVe9m.dat</image1>
+    <image2>AdA9aWiF.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>318</start>
+    <end>331</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>25</id>
+    <name>ハイスクール編 No.025</name>
+    <image1>VUMcBkyZ.dat</image1>
+    <image2>1Uwfa5rn.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>332</start>
+    <end>338</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>26</id>
+    <name>ハイスクール編 No.026</name>
+    <image1>imSzrXcw.dat</image1>
+    <image2>6JWragml.dat</image2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>339</start>
+    <end>342</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>27</id>
+    <name>ハイスクール編 No.027</name>
+    <image1>ajizHodu.dat</image1>
+    <image2>8JyCyljM.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>343</start>
+    <end>349</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>28</id>
+    <name>ハイスクール編 No.028</name>
+    <image1>ZtRHSbZK.dat</image1>
+    <image2>FikTWxP6.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>350</start>
+    <end>356</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>29</id>
+    <name>ハイスクール編 No.029</name>
+    <image1>rQDJG6bk.dat</image1>
+    <image2>v1sFacF1.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>357</start>
+    <end>370</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>30</id>
+    <name>ハイスクール編 No.030</name>
+    <image1>rCYE7cFy.dat</image1>
+    <image2>HJpyn2Qt.dat</image2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>371</start>
+    <end>378</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>31</id>
+    <name>ハイスクール編 No.031</name>
+    <image1>aisIqKB0.dat</image1>
+    <image2>yySqUWDD.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>379</start>
+    <end>392</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>32</id>
+    <name>ハイスクール編 No.032</name>
+    <image1>1ATr5hnv.dat</image1>
+    <image2>COOqo3yX.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>393</start>
+    <end>406</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>33</id>
+    <name>ハイスクール編 No.033</name>
+    <image1>IsoyRBE5.dat</image1>
+    <image2>F6sVGPo9.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>407</start>
+    <end>427</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>34</id>
+    <name>ハイスクール編 No.034</name>
+    <image1>a9h5HIi6.dat</image1>
+    <image2>NieyTS87.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>428</start>
+    <end>441</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>35</id>
+    <name>ハイスクール編 No.035</name>
+    <image1>x78hRWt6.dat</image1>
+    <image2>htRco855.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>442</start>
+    <end>462</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>36</id>
+    <name>ハイスクール編 No.036</name>
+    <image1>g5MEQNyT.dat</image1>
+    <image2>FZiYMMJu.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>463</start>
+    <end>483</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>37</id>
+    <name>ハイスクール編 No.037</name>
+    <image1>12jWn3dy.dat</image1>
+    <image2>LqKgWbSZ.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>484</start>
+    <end>504</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>38</id>
+    <name>ハイスクール編 No.038</name>
+    <image1>Jb39rLko.dat</image1>
+    <image2>CEGIY1vz.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>505</start>
+    <end>518</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>39</id>
+    <name>ハイスクール編 No.039</name>
+    <image1>y0Axhe3Z.dat</image1>
+    <image2>xKMafdUo.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>519</start>
+    <end>525</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>40</id>
+    <name>ハイスクール編 No.040</name>
+    <image1>XdKBnWMa.dat</image1>
+    <image2>441NmVCU.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>526</start>
+    <end>539</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>41</id>
+    <name>ハイスクール編 No.041</name>
+    <image1>AOC7uJ8X.dat</image1>
+    <image2>1eBWcxmO.dat</image2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>540</start>
+    <end>547</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>42</id>
+    <name>ハイスクール編 No.042</name>
+    <image1>mZx4AB2H.dat</image1>
+    <image2>r3ZfRJc2.dat</image2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>548</start>
+    <end>561</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>43</id>
+    <name>ハイスクール編 No.043</name>
+    <image1>td4IUQDY.dat</image1>
+    <image2>BDSBJqnN.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>562</start>
+    <end>568</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>44</id>
+    <name>ハイスクール編 No.044</name>
+    <image1>lf3yX0hy.dat</image1>
+    <image2>6le8oKqv.dat</image2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>569</start>
+    <end>576</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>45</id>
+    <name>ハイスクール編 No.045</name>
+    <image1>E1AlsRFy.dat</image1>
+    <image2>HLgcI97R.dat</image2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>577</start>
+    <end>580</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>46</id>
+    <name>ハイスクール編 No.046</name>
+    <image1>kNY6osFg.dat</image1>
+    <image2>tJqrPfsO.dat</image2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>581</start>
+    <end>587</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>47</id>
+    <name>ハイスクール編 No.047</name>
+    <image1>x0P404qf.dat</image1>
+    <image2>InpK5ZJx.dat</image2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>588</start>
+    <end>595</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>48</id>
+    <name>ハイスクール編 No.048</name>
+    <image1>HpWKOdkl.dat</image1>
+    <image2>Z1ce6wrv.dat</image2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>596</start>
+    <end>616</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>49</id>
+    <name>ハイスクール編 No.049</name>
+    <image1>vXrTvI3A.dat</image1>
+    <image2>4gYiJfnn.dat</image2>
+    <voice></voice>
+    <rarity>5</rarity>
+    <start>617</start>
+    <end>619</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>50</id>
+    <name>ハイスクール編 No.050</name>
+    <image1>SSDv6Ask.dat</image1>
+    <image2>0Ydx6Px6.dat</image2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>620</start>
+    <end>623</end>
+    <direction>1</direction>
+  </wallpaper>
+</wallpapers>
