@@ -1,12 +1,16 @@
 <?xml version=1.0?>
-<total>30</total>
-<denominator>378</denominator>
+<total>104</total>
+<denominator>1285</denominator>
 <wallpapers>
   <wallpaper>
     <id>1</id>
     <name>ハイスクール編 No.001</name>
-    <image1>X5un6ILk.dat</image1>
-    <image2>cT4bCPPq.dat</image2>
+    <image>wp_0001.jpg</image>
+    <image1>20170120yYiSGNkO.dat</image1>
+    <image2>20170120bmQVTkOP.dat</image2>
+    <thumb>_wp_0001.jpg</thumb>
+    <thumb1>_20170120yYiSGNkO.dat</thumb1>
+    <thumb2>_20170120bmQVTkOP.dat</thumb2>
     <voice></voice>
     <rarity>3</rarity>
     <start>1</start>
@@ -16,8 +20,12 @@
   <wallpaper>
     <id>2</id>
     <name>ハイスクール編 No.002</name>
-    <image1>yjLKrlTT.dat</image1>
-    <image2>E3VAwPKT.dat</image2>
+    <image>wp_0002.jpg</image>
+    <image1>20170120hYgjdghU.dat</image1>
+    <image2>20170120SrTJHEDL.dat</image2>
+    <thumb>_wp_0002.jpg</thumb>
+    <thumb1>_20170120hYgjdghU.dat</thumb1>
+    <thumb2>_20170120SrTJHEDL.dat</thumb2>
     <voice></voice>
     <rarity>4</rarity>
     <start>9</start>
@@ -27,9 +35,13 @@
   <wallpaper>
     <id>3</id>
     <name>ハイスクール編 No.003</name>
-    <image1>sGnEuWVj.dat</image1>
-    <image2>R50S5Ued.dat</image2>
-    <voice>itakiss1.wav</voice>
+    <image>wp_0003.jpg</image>
+    <image1>20170120JwyTNNdI.dat</image1>
+    <image2>20170120YFmiHsXq.dat</image2>
+    <thumb>_wp_0003.jpg</thumb>
+    <thumb1>_20170120JwyTNNdI.dat</thumb1>
+    <thumb2>_20170120YFmiHsXq.dat</thumb2>
+    <voice></voice>
     <rarity>0</rarity>
     <start>13</start>
     <end>33</end>
@@ -38,174 +50,238 @@
   <wallpaper>
     <id>4</id>
     <name>ハイスクール編 No.004</name>
-    <image1>5WaBI3fp.dat</image1>
-    <image2>kjgaUeOR.dat</image2>
+    <image>wp_0004.jpg</image>
+    <image1>20170120AedvklqW.dat</image1>
+    <image2>20170120WuRyyKAb.dat</image2>
+    <thumb>_wp_0004.jpg</thumb>
+    <thumb1>_20170120AedvklqW.dat</thumb1>
+    <thumb2>_20170120WuRyyKAb.dat</thumb2>
     <voice></voice>
-    <rarity>5</rarity>
+    <rarity>1</rarity>
     <start>34</start>
-    <end>36</end>
+    <end>47</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>5</id>
     <name>ハイスクール編 No.005</name>
-    <image1>73clRrwf.dat</image1>
-    <image2>TmURSdft.dat</image2>
+    <image>wp_0005.jpg</image>
+    <image1>20170120pVYDgoFN.dat</image1>
+    <image2>20170120CqTYZZYC.dat</image2>
+    <thumb>_wp_0005.jpg</thumb>
+    <thumb1>_20170120pVYDgoFN.dat</thumb1>
+    <thumb2>_20170120CqTYZZYC.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
-    <start>37</start>
-    <end>50</end>
+    <start>48</start>
+    <end>61</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>6</id>
     <name>ハイスクール編 No.006</name>
-    <image1>ufPTVaC9.dat</image1>
-    <image2>B3qz6vy2.dat</image2>
+    <image>wp_0006.jpg</image>
+    <image1>20170120ZgBrBYNx.dat</image1>
+    <image2>20170120SjRqrVtQ.dat</image2>
+    <thumb>_wp_0006.jpg</thumb>
+    <thumb1>_20170120ZgBrBYNx.dat</thumb1>
+    <thumb2>_20170120SjRqrVtQ.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
-    <start>51</start>
-    <end>64</end>
+    <start>62</start>
+    <end>75</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>7</id>
     <name>ハイスクール編 No.007</name>
-    <image1>lYDu8vHF.dat</image1>
-    <image2>JvtbV10J.dat</image2>
-    <voice>itakiss2.wav</voice>
+    <image>wp_0007.jpg</image>
+    <image1>20170120MkqYHFYF.dat</image1>
+    <image2>20170120igvsStZa.dat</image2>
+    <thumb>_wp_0007.jpg</thumb>
+    <thumb1>_20170120MkqYHFYF.dat</thumb1>
+    <thumb2>_20170120igvsStZa.dat</thumb2>
+    <voice></voice>
     <rarity>0</rarity>
-    <start>65</start>
-    <end>85</end>
+    <start>76</start>
+    <end>96</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>8</id>
     <name>ハイスクール編 No.008</name>
-    <image1>9ZrEZY9D.dat</image1>
-    <image2>R32PZU7Z.dat</image2>
+    <image>wp_0008.jpg</image>
+    <image1>20170120ZRiYYJGZ.dat</image1>
+    <image2>20170120azDmiBrF.dat</image2>
+    <thumb>_wp_0008.jpg</thumb>
+    <thumb1>_20170120ZRiYYJGZ.dat</thumb1>
+    <thumb2>_20170120azDmiBrF.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
-    <start>86</start>
-    <end>99</end>
+    <start>97</start>
+    <end>110</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>9</id>
     <name>ハイスクール編 No.009</name>
-    <image1>yek7doC7.dat</image1>
-    <image2>MjkS8BFv.dat</image2>
+    <image>wp_0009.jpg</image>
+    <image1>20170120vcielarK.dat</image1>
+    <image2>20170120lSzsfOin.dat</image2>
+    <thumb>_wp_0009.jpg</thumb>
+    <thumb1>_20170120vcielarK.dat</thumb1>
+    <thumb2>_20170120lSzsfOin.dat</thumb2>
     <voice></voice>
     <rarity>0</rarity>
-    <start>100</start>
-    <end>120</end>
+    <start>111</start>
+    <end>131</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>10</id>
     <name>ハイスクール編 No.010</name>
-    <image1>uWCTOL0p.dat</image1>
-    <image2>w6MXuJFe.dat</image2>
+    <image>wp_0010.jpg</image>
+    <image1>20170120VcHsvFcc.dat</image1>
+    <image2>20170120ReIqRQAX.dat</image2>
+    <thumb>_wp_0010.jpg</thumb>
+    <thumb1>_20170120VcHsvFcc.dat</thumb1>
+    <thumb2>_20170120ReIqRQAX.dat</thumb2>
     <voice></voice>
     <rarity>0</rarity>
-    <start>121</start>
-    <end>141</end>
+    <start>132</start>
+    <end>152</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>11</id>
     <name>ハイスクール編 No.011</name>
-    <image1>8AVf0or6.dat</image1>
-    <image2>qx8Xoeol.dat</image2>
-    <voice>itakiss3.wav</voice>
+    <image>wp_0011.jpg</image>
+    <image1>20170120KojZNOTE.dat</image1>
+    <image2>20170120hnOaJAIQ.dat</image2>
+    <thumb>_wp_0011.jpg</thumb>
+    <thumb1>_20170120KojZNOTE.dat</thumb1>
+    <thumb2>_20170120hnOaJAIQ.dat</thumb2>
+    <voice></voice>
     <rarity>0</rarity>
-    <start>142</start>
-    <end>162</end>
+    <start>153</start>
+    <end>173</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>12</id>
     <name>ハイスクール編 No.012</name>
-    <image1>UU3GiOl0.dat</image1>
-    <image2>0Yj0ugmi.dat</image2>
+    <image>wp_0012.jpg</image>
+    <image1>20170120jzFANcki.dat</image1>
+    <image2>20170120KMPCocfs.dat</image2>
+    <thumb>_wp_0012.jpg</thumb>
+    <thumb1>_20170120jzFANcki.dat</thumb1>
+    <thumb2>_20170120KMPCocfs.dat</thumb2>
     <voice></voice>
     <rarity>2</rarity>
-    <start>163</start>
-    <end>169</end>
+    <start>174</start>
+    <end>180</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>13</id>
     <name>ハイスクール編 No.013</name>
-    <image1>vQ5WqNka.dat</image1>
-    <image2>4ZxtDelL.dat</image2>
+    <image>wp_0013.jpg</image>
+    <image1>20170120bHaIikKQ.dat</image1>
+    <image2>20170120qhVryQGl.dat</image2>
+    <thumb>_wp_0013.jpg</thumb>
+    <thumb1>_20170120bHaIikKQ.dat</thumb1>
+    <thumb2>_20170120qhVryQGl.dat</thumb2>
     <voice></voice>
     <rarity>3</rarity>
-    <start>170</start>
-    <end>177</end>
+    <start>181</start>
+    <end>188</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>14</id>
     <name>ハイスクール編 No.014</name>
-    <image1>PEm1mojV.dat</image1>
-    <image2>HrhZWMmI.dat</image2>
+    <image>wp_0014.jpg</image>
+    <image1>20170120jYLyXomT.dat</image1>
+    <image2>20170120coFYuAls.dat</image2>
+    <thumb>_wp_0014.jpg</thumb>
+    <thumb1>_20170120jYLyXomT.dat</thumb1>
+    <thumb2>_20170120coFYuAls.dat</thumb2>
     <voice></voice>
     <rarity>2</rarity>
-    <start>178</start>
-    <end>184</end>
+    <start>189</start>
+    <end>195</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>15</id>
     <name>ハイスクール編 No.015</name>
-    <image1>3MtcmTqQ.dat</image1>
-    <image2>9qdrKPGj.dat</image2>
+    <image>wp_0015.jpg</image>
+    <image1>20170120PXqjrCZV.dat</image1>
+    <image2>20170120inDsuakY.dat</image2>
+    <thumb>_wp_0015.jpg</thumb>
+    <thumb1>_20170120PXqjrCZV.dat</thumb1>
+    <thumb2>_20170120inDsuakY.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
-    <start>185</start>
-    <end>198</end>
+    <start>196</start>
+    <end>209</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>16</id>
     <name>ハイスクール編 No.016</name>
-    <image1>CYfXTN4K.dat</image1>
-    <image2>0ikWHyO0.dat</image2>
+    <image>wp_0016.jpg</image>
+    <image1>20170120qoHoSDqL.dat</image1>
+    <image2>20170120nwNGezdA.dat</image2>
+    <thumb>_wp_0016.jpg</thumb>
+    <thumb1>_20170120qoHoSDqL.dat</thumb1>
+    <thumb2>_20170120nwNGezdA.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
-    <start>199</start>
-    <end>212</end>
+    <start>210</start>
+    <end>223</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>17</id>
     <name>ハイスクール編 No.017</name>
-    <image1>daK3IVTF.dat</image1>
-    <image2>3EOTElxu.dat</image2>
+    <image>wp_0017.jpg</image>
+    <image1>20170120vXNCkfUu.dat</image1>
+    <image2>20170120fuuhssDG.dat</image2>
+    <thumb>_wp_0017.jpg</thumb>
+    <thumb1>_20170120vXNCkfUu.dat</thumb1>
+    <thumb2>_20170120fuuhssDG.dat</thumb2>
     <voice></voice>
     <rarity>2</rarity>
-    <start>213</start>
-    <end>219</end>
+    <start>224</start>
+    <end>230</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>18</id>
     <name>ハイスクール編 No.018</name>
-    <image1>JCkvOjMX.dat</image1>
-    <image2>lk8UHSSI.dat</image2>
-    <voice></voice>
-    <rarity>1</rarity>
-    <start>220</start>
+    <image>wp_0018.jpg</image>
+    <image1>20170120aiaYulFl.dat</image1>
+    <image2>20170120MaVBooNq.dat</image2>
+    <thumb>_wp_0018.jpg</thumb>
+    <thumb1>_20170120aiaYulFl.dat</thumb1>
+    <thumb2>_20170120MaVBooNq.dat</thumb2>
+    <voice>no04.mp3</voice>
+    <rarity>5</rarity>
+    <start>231</start>
     <end>233</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>19</id>
     <name>ハイスクール編 No.019</name>
-    <image1>mNyyqdSa.dat</image1>
-    <image2>bqZSe35R.dat</image2>
-    <voice>itakiss4.wav</voice>
+    <image>wp_0019.jpg</image>
+    <image1>20170120owZPHiEO.dat</image1>
+    <image2>20170120ArcJmhUL.dat</image2>
+    <thumb>_wp_0019.jpg</thumb>
+    <thumb1>_20170120owZPHiEO.dat</thumb1>
+    <thumb2>_20170120ArcJmhUL.dat</thumb2>
+    <voice></voice>
     <rarity>0</rarity>
     <start>234</start>
     <end>254</end>
@@ -214,8 +290,12 @@
   <wallpaper>
     <id>20</id>
     <name>ハイスクール編 No.020</name>
-    <image1>xphI1cA6.dat</image1>
-    <image2>7ikUQ1Hn.dat</image2>
+    <image>wp_0020.jpg</image>
+    <image1>20170120IxACyzmV.dat</image1>
+    <image2>20170120VOMLSgyq.dat</image2>
+    <thumb>_wp_0020.jpg</thumb>
+    <thumb1>_20170120IxACyzmV.dat</thumb1>
+    <thumb2>_20170120VOMLSgyq.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
     <start>255</start>
@@ -225,8 +305,12 @@
   <wallpaper>
     <id>21</id>
     <name>ハイスクール編 No.021</name>
-    <image1>WrzJm1yR.dat</image1>
-    <image2>WxoppduW.dat</image2>
+    <image>wp_0021.jpg</image>
+    <image1>20170120QjHYEZkH.dat</image1>
+    <image2>20170120PTjbYHpO.dat</image2>
+    <thumb>_wp_0021.jpg</thumb>
+    <thumb1>_20170120QjHYEZkH.dat</thumb1>
+    <thumb2>_20170120PTjbYHpO.dat</thumb2>
     <voice></voice>
     <rarity>0</rarity>
     <start>269</start>
@@ -236,8 +320,12 @@
   <wallpaper>
     <id>22</id>
     <name>ハイスクール編 No.022</name>
-    <image1>t7KBqKEJ.dat</image1>
-    <image2>J0BY1isw.dat</image2>
+    <image>wp_0022.jpg</image>
+    <image1>20170120JTNdZJtq.dat</image1>
+    <image2>20170120jBSlLrsc.dat</image2>
+    <thumb>_wp_0022.jpg</thumb>
+    <thumb1>_20170120JTNdZJtq.dat</thumb1>
+    <thumb2>_20170120jBSlLrsc.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
     <start>290</start>
@@ -247,8 +335,12 @@
   <wallpaper>
     <id>23</id>
     <name>ハイスクール編 No.023</name>
-    <image1>kTpBsD3i.dat</image1>
-    <image2>LMGw48Th.dat</image2>
+    <image>wp_0023.jpg</image>
+    <image1>20170120vZveVTVz.dat</image1>
+    <image2>20170120tPxkxhXq.dat</image2>
+    <thumb>_wp_0023.jpg</thumb>
+    <thumb1>_20170120vZveVTVz.dat</thumb1>
+    <thumb2>_20170120tPxkxhXq.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
     <start>304</start>
@@ -258,8 +350,12 @@
   <wallpaper>
     <id>24</id>
     <name>ハイスクール編 No.024</name>
-    <image1>VvodVe9m.dat</image1>
-    <image2>AdA9aWiF.dat</image2>
+    <image>wp_0024.jpg</image>
+    <image1>20170120xnxCSejY.dat</image1>
+    <image2>20170120WbWePkEc.dat</image2>
+    <thumb>_wp_0024.jpg</thumb>
+    <thumb1>_20170120xnxCSejY.dat</thumb1>
+    <thumb2>_20170120WbWePkEc.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
     <start>318</start>
@@ -269,30 +365,42 @@
   <wallpaper>
     <id>25</id>
     <name>ハイスクール編 No.025</name>
-    <image1>VUMcBkyZ.dat</image1>
-    <image2>1Uwfa5rn.dat</image2>
-    <voice></voice>
-    <rarity>2</rarity>
+    <image>wp_0025.jpg</image>
+    <image1>20170120zGXkCeSR.dat</image1>
+    <image2>20170120ISBmEVbU.dat</image2>
+    <thumb>_wp_0025.jpg</thumb>
+    <thumb1>_20170120zGXkCeSR.dat</thumb1>
+    <thumb2>_20170120ISBmEVbU.dat</thumb2>
+    <voice>no05.mp3</voice>
+    <rarity>4</rarity>
     <start>332</start>
-    <end>338</end>
+    <end>335</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>26</id>
     <name>ハイスクール編 No.026</name>
-    <image1>imSzrXcw.dat</image1>
-    <image2>6JWragml.dat</image2>
+    <image>wp_0026.jpg</image>
+    <image1>20170120vslbZWQv.dat</image1>
+    <image2>20170120FeHqYYpQ.dat</image2>
+    <thumb>_wp_0026.jpg</thumb>
+    <thumb1>_20170120vslbZWQv.dat</thumb1>
+    <thumb2>_20170120FeHqYYpQ.dat</thumb2>
     <voice></voice>
-    <rarity>4</rarity>
-    <start>339</start>
+    <rarity>2</rarity>
+    <start>336</start>
     <end>342</end>
     <direction>1</direction>
   </wallpaper>
   <wallpaper>
     <id>27</id>
     <name>ハイスクール編 No.027</name>
-    <image1>ajizHodu.dat</image1>
-    <image2>8JyCyljM.dat</image2>
+    <image>wp_0027.jpg</image>
+    <image1>20170120wTTqvVln.dat</image1>
+    <image2>20170120cScjpnIb.dat</image2>
+    <thumb>_wp_0027.jpg</thumb>
+    <thumb1>_20170120wTTqvVln.dat</thumb1>
+    <thumb2>_20170120cScjpnIb.dat</thumb2>
     <voice></voice>
     <rarity>2</rarity>
     <start>343</start>
@@ -302,8 +410,12 @@
   <wallpaper>
     <id>28</id>
     <name>ハイスクール編 No.028</name>
-    <image1>ZtRHSbZK.dat</image1>
-    <image2>FikTWxP6.dat</image2>
+    <image>wp_0028.jpg</image>
+    <image1>20170120YXMCoDwi.dat</image1>
+    <image2>20170120DyHYiXHW.dat</image2>
+    <thumb>_wp_0028.jpg</thumb>
+    <thumb1>_20170120YXMCoDwi.dat</thumb1>
+    <thumb2>_20170120DyHYiXHW.dat</thumb2>
     <voice></voice>
     <rarity>2</rarity>
     <start>350</start>
@@ -313,8 +425,12 @@
   <wallpaper>
     <id>29</id>
     <name>ハイスクール編 No.029</name>
-    <image1>rQDJG6bk.dat</image1>
-    <image2>v1sFacF1.dat</image2>
+    <image>wp_0029.jpg</image>
+    <image1>20170120JBUytHgm.dat</image1>
+    <image2>20170120XDIcyxam.dat</image2>
+    <thumb>_wp_0029.jpg</thumb>
+    <thumb1>_20170120JBUytHgm.dat</thumb1>
+    <thumb2>_20170120XDIcyxam.dat</thumb2>
     <voice></voice>
     <rarity>1</rarity>
     <start>357</start>
@@ -324,12 +440,406 @@
   <wallpaper>
     <id>30</id>
     <name>ハイスクール編 No.030</name>
-    <image1>rCYE7cFy.dat</image1>
-    <image2>HJpyn2Qt.dat</image2>
+    <image>wp_0030.jpg</image>
+    <image1>20170120zRIgIljO.dat</image1>
+    <image2>20170120nXDdpvOU.dat</image2>
+    <thumb>_wp_0030.jpg</thumb>
+    <thumb1>_20170120zRIgIljO.dat</thumb1>
+    <thumb2>_20170120nXDdpvOU.dat</thumb2>
     <voice></voice>
     <rarity>3</rarity>
     <start>371</start>
     <end>378</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>31</id>
+    <name>ハイスクール編 No.031</name>
+    <image>wp_0031.jpg</image>
+    <image1>20170120FsGLtCMr.dat</image1>
+    <image2>20170120ONcTaNmd.dat</image2>
+    <thumb>_wp_0031.jpg</thumb>
+    <thumb1>_20170120FsGLtCMr.dat</thumb1>
+    <thumb2>_20170120ONcTaNmd.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>379</start>
+    <end>392</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>32</id>
+    <name>ハイスクール編 No.032</name>
+    <image>wp_0032.jpg</image>
+    <image1>20170120vOGOZklM.dat</image1>
+    <image2>20170120dqeGmHUl.dat</image2>
+    <thumb>_wp_0032.jpg</thumb>
+    <thumb1>_20170120vOGOZklM.dat</thumb1>
+    <thumb2>_20170120dqeGmHUl.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>393</start>
+    <end>406</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>33</id>
+    <name>ハイスクール編 No.033</name>
+    <image>wp_0033.jpg</image>
+    <image1>20170120GgMdpWmd.dat</image1>
+    <image2>20170120VmTJRyAc.dat</image2>
+    <thumb>_wp_0033.jpg</thumb>
+    <thumb1>_20170120GgMdpWmd.dat</thumb1>
+    <thumb2>_20170120VmTJRyAc.dat</thumb2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>407</start>
+    <end>427</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>34</id>
+    <name>ハイスクール編 No.034</name>
+    <image>wp_0034.jpg</image>
+    <image1>20170120hEpDlOKG.dat</image1>
+    <image2>20170120usSKVVfz.dat</image2>
+    <thumb>_wp_0034.jpg</thumb>
+    <thumb1>_20170120hEpDlOKG.dat</thumb1>
+    <thumb2>_20170120usSKVVfz.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>428</start>
+    <end>441</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>35</id>
+    <name>ハイスクール編 No.035</name>
+    <image>wp_0035.jpg</image>
+    <image1>20170120iHTCcbNZ.dat</image1>
+    <image2>20170120PONBSTXL.dat</image2>
+    <thumb>_wp_0035.jpg</thumb>
+    <thumb1>_20170120iHTCcbNZ.dat</thumb1>
+    <thumb2>_20170120PONBSTXL.dat</thumb2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>442</start>
+    <end>462</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>36</id>
+    <name>ハイスクール編 No.036</name>
+    <image>wp_0036.jpg</image>
+    <image1>20170120earAmmPX.dat</image1>
+    <image2>20170120ISBpmAEj.dat</image2>
+    <thumb>_wp_0036.jpg</thumb>
+    <thumb1>_20170120earAmmPX.dat</thumb1>
+    <thumb2>_20170120ISBpmAEj.dat</thumb2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>463</start>
+    <end>483</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>37</id>
+    <name>ハイスクール編 No.037</name>
+    <image>wp_0037.jpg</image>
+    <image1>20170120FILkCixF.dat</image1>
+    <image2>20170120QitvYmNE.dat</image2>
+    <thumb>_wp_0037.jpg</thumb>
+    <thumb1>_20170120FILkCixF.dat</thumb1>
+    <thumb2>_20170120QitvYmNE.dat</thumb2>
+    <voice>no01.mp3</voice>
+    <rarity>0</rarity>
+    <start>484</start>
+    <end>504</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>38</id>
+    <name>ハイスクール編 No.038</name>
+    <image>wp_0038.jpg</image>
+    <image1>20170120GRuGXSHm.dat</image1>
+    <image2>20170120oDNygLzT.dat</image2>
+    <thumb>_wp_0038.jpg</thumb>
+    <thumb1>_20170120GRuGXSHm.dat</thumb1>
+    <thumb2>_20170120oDNygLzT.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>505</start>
+    <end>518</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>39</id>
+    <name>ハイスクール編 No.039</name>
+    <image>wp_0039.jpg</image>
+    <image1>20170120sZVcKFzx.dat</image1>
+    <image2>20170120tittdSdk.dat</image2>
+    <thumb>_wp_0039.jpg</thumb>
+    <thumb1>_20170120sZVcKFzx.dat</thumb1>
+    <thumb2>_20170120tittdSdk.dat</thumb2>
+    <voice>no03.mp3</voice>
+    <rarity>3</rarity>
+    <start>519</start>
+    <end>526</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>40</id>
+    <name>ハイスクール編 No.040</name>
+    <image>wp_0040.jpg</image>
+    <image1>20170120kThYnWuc.dat</image1>
+    <image2>20170120GpkmxQZc.dat</image2>
+    <thumb>_wp_0040.jpg</thumb>
+    <thumb1>_20170120kThYnWuc.dat</thumb1>
+    <thumb2>_20170120GpkmxQZc.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>527</start>
+    <end>540</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>41</id>
+    <name>ハイスクール編 No.041</name>
+    <image>wp_0041.jpg</image>
+    <image1>20170120RvgguGbd.dat</image1>
+    <image2>20170120TCwxeabf.dat</image2>
+    <thumb>_wp_0041.jpg</thumb>
+    <thumb1>_20170120RvgguGbd.dat</thumb1>
+    <thumb2>_20170120TCwxeabf.dat</thumb2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>541</start>
+    <end>547</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>42</id>
+    <name>ハイスクール編 No.042</name>
+    <image>wp_0042.jpg</image>
+    <image1>20170120kSkCeLmT.dat</image1>
+    <image2>20170120hPBHgeko.dat</image2>
+    <thumb>_wp_0042.jpg</thumb>
+    <thumb1>_20170120kSkCeLmT.dat</thumb1>
+    <thumb2>_20170120hPBHgeko.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>548</start>
+    <end>561</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>43</id>
+    <name>ハイスクール編 No.043</name>
+    <image>wp_0043.jpg</image>
+    <image1>20170120xJZyDAkZ.dat</image1>
+    <image2>20170120MhjJVYPP.dat</image2>
+    <thumb>_wp_0043.jpg</thumb>
+    <thumb1>_20170120xJZyDAkZ.dat</thumb1>
+    <thumb2>_20170120MhjJVYPP.dat</thumb2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>562</start>
+    <end>568</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>44</id>
+    <name>ハイスクール編 No.044</name>
+    <image>wp_0044.jpg</image>
+    <image1>20170120bFovqBpn.dat</image1>
+    <image2>20170120kUtLdQqe.dat</image2>
+    <thumb>_wp_0044.jpg</thumb>
+    <thumb1>_20170120bFovqBpn.dat</thumb1>
+    <thumb2>_20170120kUtLdQqe.dat</thumb2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>569</start>
+    <end>576</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>45</id>
+    <name>ハイスクール編 No.045</name>
+    <image>wp_0045.jpg</image>
+    <image1>20170120EFigfCkM.dat</image1>
+    <image2>20170120sJpfybCR.dat</image2>
+    <thumb>_wp_0045.jpg</thumb>
+    <thumb1>_20170120EFigfCkM.dat</thumb1>
+    <thumb2>_20170120sJpfybCR.dat</thumb2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>577</start>
+    <end>580</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>46</id>
+    <name>ハイスクール編 No.046</name>
+    <image>wp_0046.jpg</image>
+    <image1>20170120eUZETFNM.dat</image1>
+    <image2>20170120mrvyknzZ.dat</image2>
+    <thumb>_wp_0046.jpg</thumb>
+    <thumb1>_20170120eUZETFNM.dat</thumb1>
+    <thumb2>_20170120mrvyknzZ.dat</thumb2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>581</start>
+    <end>587</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>47</id>
+    <name>ハイスクール編 No.047</name>
+    <image>wp_0047.jpg</image>
+    <image1>20170120JXqeVahR.dat</image1>
+    <image2>20170120hYwLHxvM.dat</image2>
+    <thumb>_wp_0047.jpg</thumb>
+    <thumb1>_20170120JXqeVahR.dat</thumb1>
+    <thumb2>_20170120hYwLHxvM.dat</thumb2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>588</start>
+    <end>595</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>48</id>
+    <name>ハイスクール編 No.048</name>
+    <image>wp_0048.jpg</image>
+    <image1>20170120PzZfIoNS.dat</image1>
+    <image2>20170120HWpXuMSB.dat</image2>
+    <thumb>_wp_0048.jpg</thumb>
+    <thumb1>_20170120PzZfIoNS.dat</thumb1>
+    <thumb2>_20170120HWpXuMSB.dat</thumb2>
+    <voice></voice>
+    <rarity>0</rarity>
+    <start>596</start>
+    <end>616</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>49</id>
+    <name>ハイスクール編 No.049</name>
+    <image>wp_0049.jpg</image>
+    <image1>20170120fAfvUjlR.dat</image1>
+    <image2>20170120APlDrBDc.dat</image2>
+    <thumb>_wp_0049.jpg</thumb>
+    <thumb1>_20170120fAfvUjlR.dat</thumb1>
+    <thumb2>_20170120APlDrBDc.dat</thumb2>
+    <voice></voice>
+    <rarity>3</rarity>
+    <start>617</start>
+    <end>624</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>50</id>
+    <name>ハイスクール編 No.050</name>
+    <image>wp_0050.jpg</image>
+    <image1>20170120CkYZEOwg.dat</image1>
+    <image2>20170120QwIjEAEm.dat</image2>
+    <thumb>_wp_0050.jpg</thumb>
+    <thumb1>_20170120CkYZEOwg.dat</thumb1>
+    <thumb2>_20170120QwIjEAEm.dat</thumb2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>625</start>
+    <end>628</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>51</id>
+    <name>ハイスクール編 No.051</name>
+    <image>wp_0051.jpg</image>
+    <image1>20170121dSvwWQjv.dat</image1>
+    <image2>20170121szAIgWmA.dat</image2>
+    <thumb>_wp_0051.jpg</thumb>
+    <thumb1>_20170121dSvwWQjv.dat</thumb1>
+    <thumb2>_20170121szAIgWmA.dat</thumb2>
+    <voice>no04.mp3</voice>
+    <rarity>3</rarity>
+    <start>629</start>
+    <end>636</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>52</id>
+    <name>ハイスクール編 No.052</name>
+    <image>wp_0052.jpg</image>
+    <image1>20170121NQxBdbBq.dat</image1>
+    <image2>20170121REDzNKQZ.dat</image2>
+    <thumb>_wp_0052.jpg</thumb>
+    <thumb1>_20170121NQxBdbBq.dat</thumb1>
+    <thumb2>_20170121REDzNKQZ.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>637</start>
+    <end>650</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>53</id>
+    <name>ハイスクール編 No.053</name>
+    <image>wp_0053.jpg</image>
+    <image1>20170121FqKCPFIw.dat</image1>
+    <image2>20170121WVKDWXSL.dat</image2>
+    <thumb>_wp_0053.jpg</thumb>
+    <thumb1>_20170121FqKCPFIw.dat</thumb1>
+    <thumb2>_20170121WVKDWXSL.dat</thumb2>
+    <voice>no02.mp3</voice>
+    <rarity>5</rarity>
+    <start>651</start>
+    <end>653</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>54</id>
+    <name>ハイスクール編 No.054</name>
+    <image>wp_0054.jpg</image>
+    <image1>20170121ddZYDcYF.dat</image1>
+    <image2>20170121jRVcnPRf.dat</image2>
+    <thumb>_wp_0054.jpg</thumb>
+    <thumb1>_20170121ddZYDcYF.dat</thumb1>
+    <thumb2>_20170121jRVcnPRf.dat</thumb2>
+    <voice></voice>
+    <rarity>2</rarity>
+    <start>654</start>
+    <end>660</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>55</id>
+    <name>ハイスクール編 No.055</name>
+    <image>wp_0055.jpg</image>
+    <image1>20170121QdvDhieU.dat</image1>
+    <image2>20170121uWuoEJCT.dat</image2>
+    <thumb>_wp_0055.jpg</thumb>
+    <thumb1>_20170121QdvDhieU.dat</thumb1>
+    <thumb2>_20170121uWuoEJCT.dat</thumb2>
+    <voice></voice>
+    <rarity>5</rarity>
+    <start>661</start>
+    <end>663</end>
+    <direction>1</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>56</id>
+    <name>ハイスクール編 No.056</name>
+    <image>wp_0056.jpg</image>
+    <image1>20170121NzpsAYUG.dat</image1>
+    <image2>20170121GdEVcmbX.dat</image2>
+    <thumb>_wp_0056.jpg</thumb>
+    <thumb1>_20170121NzpsAYUG.dat</thumb1>
+    <thumb2>_20170121GdEVcmbX.dat</thumb2>
+    <voice></voice>
+    <rarity>1</rarity>
+    <start>664</start>
+    <end>677</end>
     <direction>1</direction>
   </wallpaper>
 </wallpapers>
