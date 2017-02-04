@@ -1,6 +1,6 @@
 <?xml version=1.0?>
-<total>100</total>
-<denominator>1478</denominator>
+<total>103</total>
+<denominator>1502</denominator>
 <wallpapers>
   <wallpaper>
     <id>1</id>
@@ -1500,6 +1500,51 @@
     <rarity>4</rarity>
     <start>1471</start>
     <end>1478</end>
+    <direction>0</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>101</id>
+    <name>ハイスクール編 No.101</name>
+    <image>wp_0102.jpg</image>
+    <image1>20170122zRGkrlVn.dat</image1>
+    <image2>20170122IiMkSLTy.dat</image2>
+    <thumb>_wp_0102.jpg</thumb>
+    <thumb1>_20170122zRGkrlVn.dat</thumb1>
+    <thumb2>_20170122IiMkSLTy.dat</thumb2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>1479</start>
+    <end>1486</end>
+    <direction>0</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>102</id>
+    <name>ハイスクール編 No.102</name>
+    <image>wp_0103.jpg</image>
+    <image1>20170122mmBqEQpJ.dat</image1>
+    <image2>20170122IsGgqFoh.dat</image2>
+    <thumb>_wp_0103.jpg</thumb>
+    <thumb1>_20170122mmBqEQpJ.dat</thumb1>
+    <thumb2>_20170122IsGgqFoh.dat</thumb2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>1487</start>
+    <end>1494</end>
+    <direction>0</direction>
+  </wallpaper>
+  <wallpaper>
+    <id>103</id>
+    <name>ハイスクール編 No.103</name>
+    <image>wp_0104.jpg</image>
+    <image1>20170122JGlHArIN.dat</image1>
+    <image2>20170122aAxRLPDK.dat</image2>
+    <thumb>_wp_0104.jpg</thumb>
+    <thumb1>_20170122JGlHArIN.dat</thumb1>
+    <thumb2>_20170122aAxRLPDK.dat</thumb2>
+    <voice></voice>
+    <rarity>4</rarity>
+    <start>1495</start>
+    <end>1502</end>
     <direction>0</direction>
   </wallpaper>
 </wallpapers>
