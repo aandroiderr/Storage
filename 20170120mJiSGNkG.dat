@@ -1,6 +1,6 @@
 <?xml version=1.0?>
-<total>103</total>
-<denominator>1502</denominator>
+<total>102</total>
+<denominator>1494</denominator>
 <wallpapers>
   <wallpaper>
     <id>1</id>
@@ -1531,20 +1531,5 @@
     <start>1487</start>
     <end>1494</end>
     <direction>0</direction>
-  </wallpaper>
-  <wallpaper>
-    <id>103</id>
-    <name>ハイスクール編 No.103</name>
-    <image>wp_0104.jpg</image>
-    <image1>20170122mmBqEQpJ.dat</image1>
-    <image2>20170122IsGgqFoh.dat</image2>
-    <thumb>_wp_0104.jpg</thumb>
-    <thumb1>_20170122mmBqEQpJ.dat</thumb1>
-    <thumb2>_20170122IsGgqFoh.dat</thumb2>
-    <voice></voice>
-    <rarity>4</rarity>
-    <start>1495</start>
-    <end>1502</end>
-    <direction>1</direction>
   </wallpaper>
 </wallpapers>
