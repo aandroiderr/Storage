@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="19">
+ <tileset firstgid="1" name="a" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
+ <objectgroup color="#ff00ff" name="background">
+  <properties>
+   <property name="goal" type="int" value="104"/>
+   <property name="level" value="1"/>
+   <property name="num_item" type="int" value="5"/>
+   <property name="shop_diamond" type="int" value="1"/>
+   <property name="shop_flower" type="int" value="1"/>
+   <property name="shop_mine" type="int" value="1"/>
+   <property name="shop_rock" type="int" value="1"/>
+   <property name="shop_strength" type="int" value="1"/>
+   <property name="time" value="60"/>
+  </properties>
+  <object id="1" name="G4" x="188.867" y="360.4" width="76.6" height="76.6">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+  <object id="2" name="random" x="360.667" y="336.8" width="51.0667" height="51.0667">
+   <properties>
+    <property name="id" value="7"/>
+   </properties>
+  </object>
+  <object id="3" name="dog" x="84.6" y="102.6" width="786.4" height="24.5333">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="4" name="G4" x="606.4" y="343.333" width="76.6" height="76.6">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+  <object id="5" name="B2" x="134.267" y="246.8" width="51.0667" height="51.0667">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="6" name="B2" x="218" y="186.933" width="51.0667" height="51.0667">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="7" name="B2" x="436.267" y="252.733" width="51.0667" height="51.0667">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="8" name="random" x="499.733" y="336.867" width="51.0667" height="51.0667">
+   <properties>
+    <property name="id" value="7"/>
+   </properties>
+  </object>
+  <object id="9" name="B1" x="572.8" y="205.267" width="25.5333" height="25.5333">
+   <properties>
+    <property name="id" value="10"/>
+   </properties>
+  </object>
+  <object id="10" name="G2" x="636.467" y="245.267" width="40.8533" height="38.3">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+  <object id="11" name="G1" x="721.533" y="195.733" width="25.5333" height="25.5333">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="12" name="G1" x="236.4" y="272.333" width="25.5333" height="25.5333">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="13" name="G1" x="313" y="272.333" width="25.5333" height="25.5333">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="14" name="G2" x="95.6667" y="119.8" width="40.8533" height="38.3">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+  <object id="15" name="G1" x="769.267" y="266.667" width="25.5333" height="25.5333">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="16" name="dog" x="549.8" y="161.667" width="344.4" height="25.5333">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="17" name="dog" x="75.867" y="217.733" width="406.4" height="25.5333">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="18" name="G4" x="799.7" y="341.7" width="76.6" height="76.6">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

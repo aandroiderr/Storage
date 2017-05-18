@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="43">
+ <properties>
+  <property name="items" type="int" value="0"/>
+ </properties>
+ <tileset firstgid="1" name="q" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
+ <objectgroup color="#ff00ff" name="background">
+  <properties>
+   <property name="goal" type="int" value="650"/>
+   <property name="level" value="1"/>
+   <property name="time" value="60"/>
+  </properties>
+  <object id="1" name="G1" x="316.728" y="278.145" width="23.8728" height="23.8728">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="2" name="G2" x="80" y="264.636" width="38.1965" height="35.8092">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+  <object id="3" name="G4" x="143.364" y="335.89" width="95.4913" height="95.4913">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+  <object id="4" name="B2" x="240.364" y="201.526" width="47.7457" height="47.7457">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="5" name="random" x="165.873" y="240.399" width="47.7457" height="47.7457">
+   <properties>
+    <property name="id" value="7"/>
+   </properties>
+  </object>
+  <object id="6" name="G4" x="401.838" y="341.509" width="95.4913" height="95.4913">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+  <object id="7" name="G1" x="142.983" y="142.399" width="23.8728" height="23.8728">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="8" name="random" x="609.694" y="237.145" width="47.7457" height="47.7457">
+   <properties>
+    <property name="id" value="7"/>
+   </properties>
+  </object>
+  <object id="9" name="G2" x="596.075" y="140.272" width="38.1965" height="35.8092">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+  <object id="10" name="G1" x="702.821" y="163.526" width="23.8728" height="23.8728">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="11" name="G1" x="739.312" y="92.526" width="23.8728" height="23.8728">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="12" name="B2" x="798.058" y="134.653" width="47.7457" height="47.7457">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="13" name="B1" x="372.584" y="195.89" width="23.8728" height="23.8728">
+   <properties>
+    <property name="id" value="10"/>
+   </properties>
+  </object>
+  <object id="14" name="B1" x="401.22" y="281.254" width="23.8728" height="23.8728">
+   <properties>
+    <property name="id" value="10"/>
+   </properties>
+  </object>
+  <object id="15" name="B2" x="490.329" y="253.89" width="47.7457" height="47.7457">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="16" name="G2" x="788.803" y="269.636" width="38.1965" height="35.8092">
+   <properties>
+    <property name="id" value="2"/>
+   </properties>
+  </object>
+  <object id="17" name="G1" x="717.185" y="293.509" width="23.8728" height="23.8728">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="42" name="G4" x="778.254" y="346.254" width="95.4913" height="95.4913">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

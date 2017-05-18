@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="26">
+ <tileset firstgid="1" name="a" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
+ <objectgroup color="#ff00ff" name="background">
+  <properties>
+   <property name="goal" type="int" value="107"/>
+   <property name="level" value="1"/>
+   <property name="num_item" type="int" value="5"/>
+   <property name="shop_diamond" type="int" value="1"/>
+   <property name="shop_flower" type="int" value="1"/>
+   <property name="shop_mine" type="int" value="1"/>
+   <property name="shop_rock" type="int" value="1"/>
+   <property name="shop_strength" type="int" value="1"/>
+   <property name="time" value="60"/>
+  </properties>
+  <object id="1" name="G4" x="376" y="381" width="80" height="80">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+  <object id="2" name="BomB" x="726" y="250" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="3" name="random" x="594" y="353" width="40" height="40">
+   <properties>
+    <property name="id" value="7"/>
+   </properties>
+  </object>
+  <object id="4" name="BomB" x="298" y="244" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="5" name="G4" x="722" y="361" width="80" height="80">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+  <object id="6" name="G4" x="147" y="171" width="80" height="80">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+  <object id="7" name="G3" x="519" y="406" width="40" height="40">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+  <object id="8" name="G3" x="404" y="94" width="40" height="40">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+  <object id="9" name="dog" x="89" y="79" width="557" height="20">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="10" name="dog" x="358" y="269" width="121" height="20">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="11" name="B3" x="845" y="274" width="20" height="10">
+   <properties>
+    <property name="id" value="8"/>
+   </properties>
+  </object>
+  <object id="12" name="B3" x="501" y="317" width="20" height="20">
+   <properties>
+    <property name="id" value="8"/>
+   </properties>
+  </object>
+  <object id="13" name="B3" x="653" y="118" width="20" height="20">
+   <properties>
+    <property name="id" value="8"/>
+   </properties>
+  </object>
+  <object id="14" name="B3" x="633" y="268" width="20" height="20">
+   <properties>
+    <property name="id" value="8"/>
+   </properties>
+  </object>
+  <object id="15" name="G1" x="298" y="395" width="20" height="20">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="16" name="G1" x="79" y="244" width="20" height="20">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="17" name="dog" x="449" y="208" width="260" height="20">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="18" name="dog" x="272" y="151" width="580" height="20">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="19" name="dog" x="66" y="305" width="240" height="20">
+   <properties>
+    <property name="id" value="6"/>
+   </properties>
+  </object>
+  <object id="20" name="G4" x="127" y="376" width="80" height="80">
+   <properties>
+    <property name="id" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

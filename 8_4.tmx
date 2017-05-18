@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="35">
+ <tileset firstgid="1" name="a" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
+ <objectgroup color="#ff00ff" name="background">
+  <properties>
+   <property name="goal" type="int" value="108"/>
+   <property name="level" value="1"/>
+   <property name="time" value="60"/>
+  </properties>
+  <object id="1" name="BomB" x="220" y="266" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="2" name="BomB" x="326" y="227" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="3" name="BomB" x="111" y="197" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="4" name="BomB" x="676" y="143" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="5" name="BomB" x="562" y="236" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="6" name="D1" x="339" y="420" width="20" height="20">
+   <properties>
+    <property name="id" value="12"/>
+   </properties>
+  </object>
+  <object id="7" name="D1" x="538" y="361" width="20" height="20">
+   <properties>
+    <property name="id" value="12"/>
+   </properties>
+  </object>
+  <object id="8" name="D1" x="752" y="139" width="20" height="20">
+   <properties>
+    <property name="id" value="12"/>
+   </properties>
+  </object>
+  <object id="9" name="D1" x="524" y="220" width="20" height="20">
+   <properties>
+    <property name="id" value="12"/>
+   </properties>
+  </object>
+  <object id="10" name="D1" x="174" y="249" width="20" height="20">
+   <properties>
+    <property name="id" value="12"/>
+   </properties>
+  </object>
+  <object id="11" name="D1" x="393" y="249" width="20" height="20">
+   <properties>
+    <property name="id" value="12"/>
+   </properties>
+  </object>
+  <object id="16" name="random" x="225" y="149" width="40" height="40">
+   <properties>
+    <property name="id" value="7"/>
+   </properties>
+  </object>
+  <object id="17" name="D2" x="592" y="304" width="324" height="20">
+   <properties>
+    <property name="id" value="13"/>
+   </properties>
+  </object>
+  <object id="29" name="BomB" x="437" y="306" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="32" name="BomB" x="809" y="142" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
