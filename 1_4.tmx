@@ -6,7 +6,7 @@
  <tileset firstgid="1" name="q" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <objectgroup color="#ff00ff" name="background">
   <properties>
-   <property name="goal" type="int" value="650"/>
+   <property name="goal" type="int" value="123"/>
    <property name="level" value="1"/>
    <property name="time" value="60"/>
   </properties>
