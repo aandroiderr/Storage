@@ -1,0 +1,34 @@
+<?xml version=1.0?>
+<total>5</total>
+<captions>
+  <caption>
+    <string>ã“ã®ã‚¢ãƒ—ãƒªã‚’åˆ¶ä½œã—ãŸMJ GARAGEã®ä»–ã®ã‚¢ãƒ—ãƒªã¯ã‚³ãƒãƒ©ï¼</string>
+    <color>#33FFFF</color>
+    <speed>MIDDLE</speed>
+    <url>https://itunes.apple.com/jp/developer/mj-garage-inc/id628248512</url>
+  </caption>
+  <caption>
+    <string>ã†ã¾ã„æ£’ã‚’ã²ãŸã™ã‚‰é£Ÿã¹ã‚‹(ï¼Ÿ)æ„å‘³ä¸æ˜Žãªã‚¢ãƒ—ãƒªã¯ã‚³ãƒãƒ©ï¼</string>
+    <color>#FFFF33</color>
+    <speed>MIDDLE</speed>
+    <url>https://itunes.apple.com/jp/app/id650707140?mt=8</url>
+  </caption>
+  <caption>
+    <string>ã‚¢ãƒ¡ãƒªã‘ã‚“ãƒ‰ãƒƒã‚°ã®æƒ…å ±ã¯ã‚³ãƒãƒ©ï¼</string>
+    <color>#FFFFFF</color>
+    <speed>MIDDLE</speed>
+    <url>https://www.facebook.com/AMERIKEN.DOG/?fref=ts</url>
+  </caption>
+  <caption>
+    <string>æ±Ÿé ­2:50ã®ãƒãƒãƒ£ãƒ¡ãƒãƒ£ãªã‚¢ãƒ—ãƒªã¯ã‚³ãƒãƒ©ï¼</string>
+    <color>#FFFF33</color>
+    <speed>MIDDLE</speed>
+    <url>https://itunes.apple.com/jp/developer/mj-garage-inc/id628248512</url>
+  </caption>
+  <caption>
+    <string>ã‚µãƒ³ãƒªã‚ªãƒ”ãƒ¥ãƒ¼ãƒ­ãƒ©ãƒ³ãƒ‰ã®å£ç´™ã€ã‚¢ã‚¤ã‚³ãƒ³ç­‰ãŒæ¬²ã—ã„æ–¹ã¯ã‚³ãƒãƒ©ï¼</string>
+    <color>#FF33FF</color>
+    <speed>MIDDLE</speed>
+    <url>https://itunes.apple.com/jp/app/id998431404?mt=8</url>
+  </caption>
+</captions>
