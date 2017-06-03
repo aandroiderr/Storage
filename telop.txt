@@ -2,31 +2,31 @@
 <total>5</total>
 <captions>
   <caption>
-    <string>[VN]Màn chơi mới sẽ được cập nhật vào ngày 27-05-2017</string>
+    <string>[VN]Màn chơi mới sẽ được cập nhật vào ngày 15-06-2017</string>
     <color>#33FFFF</color>
     <speed>MIDDLE</speed>
     <url></url>
   </caption>
   <caption>
-    <string>[EN]New maps will be available soon on 2017-05-27</string>
+    <string>[EN]New maps will be available soon on 2017-06-15</string>
     <color>#FFFF33</color>
     <speed>MIDDLE</speed>
     <url></url>
   </caption>
   <caption>
-    <string>[VN]Màn chơi mới sẽ được cập nhật vào ngày 27-05-2017</string>
+    <string>[VN]Màn chơi mới sẽ được cập nhật vào ngày 15-06-2017</string>
     <color>#FFFFFF</color>
     <speed>MIDDLE</speed>
     <url></url>
   </caption>
   <caption>
-    <string>[EN]New maps will be available soon on 2017-05-27</string>
+    <string>[EN]New maps will be available soon on 2017-06-15</string>
     <color>#FFFF33</color>
     <speed>MIDDLE</speed>
     <url></url>
   </caption>
   <caption>
-    <string>[VN]Màn chơi mới sẽ được cập nhật vào ngày 27-05-2017</string>
+    <string>[VN]Màn chơi mới sẽ được cập nhật vào ngày 15-06-2017</string>
     <color>#FF33FF</color>
     <speed>MIDDLE</speed>
     <url></url>
