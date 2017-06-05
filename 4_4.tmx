@@ -3,7 +3,7 @@
  <tileset firstgid="1" name="a" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <objectgroup color="#ff00ff" name="background">
   <properties>
-   <property name="goal" type="int" value="104"/>
+   <property name="goal" type="int" value="1100"/>
    <property name="level" value="1"/>
    <property name="num_item" type="int" value="5"/>
    <property name="shop_diamond" type="int" value="1"/>
