@@ -14,20 +14,20 @@
     <url></url>
   </caption>
   <caption>
-    <string>[VN]MỚI: màn chơi mới đã được cập nhật. Vào Màn "Mới Mỗi Tuần" để chơi!!!</string>
+    <string>[VN]HOT HOT: màn chơi mới đã được cập nhật. Vào Màn "Mới Mỗi Tuần" để chơi!!!</string>
     <color>#FFFFFF</color>
     <speed>MIDDLE</speed>
     <url></url>
   </caption>
   <caption>
     <string>[EN]NEW MAPS: please select board "New Every Week" to play new maps!!!</string>
-    <color>#FFFF33</color>
+    <color>#F5FF11</color>
     <speed>MIDDLE</speed>
     <url></url>
   </caption>
   <caption>
-    <string>[VN]MỚI: màn chơi mới đã được cập nhật. Vào Màn "Mới Mỗi Tuần" để chơi!!!</string>
-    <color>#FF33FF</color>
+    <string>[VN]CHỦ Ý: màn chơi mới đã được cập nhật. Vào Màn "Mới Mỗi Tuần" để chơi!!!</string>
+    <color>#FF3333</color>
     <speed>MIDDLE</speed>
     <url></url>
   </caption>
