@@ -1,130 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="25">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="57">
  <tileset firstgid="1" name="a" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <objectgroup color="#ff00ff" name="background">
   <properties>
-   <property name="goal" type="int" value="7000"/>
+   <property name="goal" type="int" value="4800"/>
    <property name="level" value="1"/>
    <property name="time" value="60"/>
   </properties>
-  <object id="1" name="G4" x="620" y="340" width="80" height="80">
+  <object id="25" name="BomB" x="551.25" y="220.5" width="40" height="40">
    <properties>
-    <property name="id" value="4"/>
+    <property name="id" value="5"/>
    </properties>
   </object>
-  <object id="2" name="B3" x="520" y="360" width="20" height="20">
+  <object id="27" name="B4" x="672.25" y="150.5" width="23" height="25">
+   <properties>
+    <property name="id" value="3"/>
+   </properties>
+  </object>
+  <object id="28" name="B4" x="243.25" y="153.5" width="20" height="21">
    <properties>
     <property name="id" value="8"/>
    </properties>
   </object>
-  <object id="3" name="B4" x="719" y="444" width="20" height="20">
+  <object id="29" name="B4" x="861.25" y="245.5" width="20" height="20">
    <properties>
-    <property name="id" value="9"/>
+    <property name="id" value="8"/>
    </properties>
   </object>
-  <object id="4" name="random" x="829" y="247" width="40" height="40">
+  <object id="30" name="B4" x="76.25" y="240.5" width="20" height="20">
    <properties>
-    <property name="id" value="7"/>
+    <property name="id" value="8"/>
    </properties>
   </object>
-  <object id="5" name="BomB" x="373" y="309" width="40" height="40">
+  <object id="31" name="B4" x="139.25" y="153.5" width="20" height="20">
    <properties>
-    <property name="id" value="5"/>
+    <property name="id" value="8"/>
    </properties>
   </object>
-  <object id="6" name="BomB" x="460" y="300" width="40" height="40">
-   <properties>
-    <property name="id" value="5"/>
-   </properties>
-  </object>
-  <object id="7" name="BomB" x="557" y="307" width="40" height="40">
+  <object id="34" name="BomB" x="604.25" y="299.5" width="40" height="40">
    <properties>
     <property name="id" value="5"/>
    </properties>
   </object>
-  <object id="8" name="D1" x="420" y="280" width="20" height="20">
-   <properties>
-    <property name="id" value="12"/>
-   </properties>
-  </object>
-  <object id="9" name="D1" x="520" y="280" width="20" height="20">
-   <properties>
-    <property name="id" value="12"/>
-   </properties>
-  </object>
-  <object id="10" name="G4" x="788" y="127" width="80" height="80">
-   <properties>
-    <property name="id" value="4"/>
-   </properties>
-  </object>
-  <object id="11" name="BomB" x="780" y="380" width="40" height="40">
+  <object id="35" name="BomB" x="667.25" y="375.5" width="40" height="40">
    <properties>
     <property name="id" value="5"/>
    </properties>
   </object>
-  <object id="12" name="BomB" x="714" y="176" width="40" height="40">
+  <object id="36" name="BomB" x="729.25" y="463.5" width="40" height="40">
    <properties>
     <property name="id" value="5"/>
    </properties>
   </object>
-  <object id="13" name="BomB" x="326" y="163" width="40" height="40">
-   <properties>
-    <property name="id" value="5"/>
-   </properties>
-  </object>
-  <object id="14" name="BomB" x="145" y="161" width="40" height="40">
-   <properties>
-    <property name="id" value="5"/>
-   </properties>
-  </object>
-  <object id="15" name="D1" x="244" y="161" width="20" height="20">
-   <properties>
-    <property name="id" value="12"/>
-   </properties>
-  </object>
-  <object id="16" name="D1" x="748" y="331" width="20" height="20">
-   <properties>
-    <property name="id" value="12"/>
-   </properties>
-  </object>
-  <object id="17" name="random" x="143" y="93" width="40" height="40">
-   <properties>
-    <property name="id" value="7"/>
-   </properties>
-  </object>
-  <object id="18" name="D1" x="289" y="300" width="20" height="20">
-   <properties>
-    <property name="id" value="12"/>
-   </properties>
-  </object>
-  <object id="19" name="D1" x="558" y="443" width="20" height="20">
-   <properties>
-    <property name="id" value="12"/>
-   </properties>
-  </object>
-  <object id="20" name="D2" x="200" y="240" width="178" height="20">
-   <properties>
-    <property name="id" value="13"/>
-   </properties>
-  </object>
-  <object id="21" name="G1" x="160" y="240" width="20" height="20">
+  <object id="37" name="D1" x="210.25" y="324.5" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="22" name="random" x="115" y="318" width="40" height="40">
+  <object id="38" name="D1" x="146.25" y="406.5" width="20" height="20">
    <properties>
-    <property name="id" value="7"/>
+    <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="23" name="D1" x="660" y="200" width="20" height="20">
+  <object id="39" name="D1" x="774.25" y="409.5" width="20" height="20">
    <properties>
-    <property name="id" value="12"/>
+    <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="24" name="D2" x="573" y="240" width="240" height="20">
+  <object id="40" name="BomB" x="844.25" y="399.5" width="40" height="40">
    <properties>
-    <property name="id" value="13"/>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="41" name="BomB" x="717.75" y="235" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="42" name="BomB" x="775.75" y="318" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="43" name="B4" x="788.25" y="155.5" width="20" height="20">
+   <properties>
+    <property name="id" value="8"/>
+   </properties>
+  </object>
+  <object id="44" name="BomB" x="348.5" y="219.5" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="45" name="BomB" x="293.5" y="300" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="46" name="BomB" x="235.5" y="374" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="47" name="BomB" x="172.5" y="457" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="48" name="BomB" x="128.25" y="315.75" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="49" name="BomB" x="73.75" y="397.25" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="50" name="BomB" x="185.25" y="234.75" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="51" name="D1" x="714.5" y="323" width="20" height="20">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="52" name="D1" x="272.5" y="239" width="20" height="20">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="53" name="D1" x="654.5" y="233" width="20" height="20">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="54" name="BomB" x="452" y="220" width="40" height="40">
+   <properties>
+    <property name="id" value="5"/>
+   </properties>
+  </object>
+  <object id="55" name="D1" x="507" y="204" width="20" height="20">
+   <properties>
+    <property name="id" value="1"/>
+   </properties>
+  </object>
+  <object id="56" name="D1" x="410" y="203" width="20" height="20">
+   <properties>
+    <property name="id" value="1"/>
    </properties>
   </object>
  </objectgroup>

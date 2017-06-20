@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="21">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="48" height="25" tilewidth="20" tileheight="20" nextobjectid="26">
  <tileset firstgid="1" name="a" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <objectgroup color="#ff00ff" name="background">
   <properties>
-   <property name="goal" type="int" value="1000"/>
+   <property name="goal" type="int" value="1200"/>
    <property name="level" value="1"/>
    <property name="num_item" type="int" value="5"/>
    <property name="shop_diamond" type="int" value="1"/>
@@ -13,12 +13,12 @@
    <property name="shop_strength" type="int" value="1"/>
    <property name="time" value="60"/>
   </properties>
-  <object id="1" name="G4" x="151" y="358" width="80" height="80">
+  <object id="1" name="G4" x="179" y="357" width="80" height="80">
    <properties>
     <property name="id" value="4"/>
    </properties>
   </object>
-  <object id="2" name="B2" x="80" y="177" width="40" height="40">
+  <object id="2" name="B2" x="501" y="180" width="40" height="40">
    <properties>
     <property name="id" value="11"/>
    </properties>
@@ -28,84 +28,99 @@
     <property name="id" value="7"/>
    </properties>
   </object>
-  <object id="4" name="G4" x="700" y="359" width="80" height="80">
+  <object id="4" name="G4" x="659" y="360" width="80" height="80">
    <properties>
     <property name="id" value="4"/>
    </properties>
   </object>
-  <object id="5" name="B2" x="521" y="199" width="40" height="40">
+  <object id="5" name="B2" x="253" y="179" width="40" height="40">
    <properties>
     <property name="id" value="11"/>
    </properties>
   </object>
-  <object id="6" name="B2" x="834" y="105" width="40" height="40">
+  <object id="6" name="B2" x="640" y="178" width="40" height="40">
    <properties>
     <property name="id" value="11"/>
    </properties>
   </object>
-  <object id="7" name="B2" x="141" y="88" width="40" height="40">
+  <object id="7" name="B2" x="378" y="179" width="40" height="40">
    <properties>
     <property name="id" value="11"/>
    </properties>
   </object>
-  <object id="8" name="B1" x="720" y="116" width="20" height="20">
+  <object id="8" name="B1" x="88" y="327" width="20" height="20">
    <properties>
     <property name="id" value="10"/>
    </properties>
   </object>
-  <object id="9" name="B1" x="367" y="203" width="20" height="20">
+  <object id="9" name="B1" x="850" y="326" width="20" height="20">
    <properties>
     <property name="id" value="10"/>
    </properties>
   </object>
-  <object id="11" name="G1" x="787" y="178" width="20" height="20">
+  <object id="11" name="B3" x="575" y="310" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="12" name="G1" x="269" y="280" width="20" height="20">
+  <object id="12" name="B3" x="805" y="187" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="13" name="G1" x="175" y="218" width="20" height="20">
+  <object id="13" name="B4" x="451" y="428" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="14" name="G1" x="643" y="319" width="20" height="20">
+  <object id="14" name="B3" x="354" y="320" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="15" name="G1" x="364" y="279" width="20" height="20">
+  <object id="15" name="B3" x="113" y="189" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="16" name="G1" x="104" y="282" width="20" height="20">
+  <object id="16" name="G1" x="178" y="176" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="17" name="G1" x="266" y="154" width="20" height="20">
+  <object id="17" name="G1" x="739" y="174" width="20" height="20">
    <properties>
     <property name="id" value="1"/>
    </properties>
   </object>
-  <object id="18" name="G2" x="823" y="286" width="32" height="30">
+  <object id="18" name="G2" x="793" y="280" width="32" height="30">
    <properties>
     <property name="id" value="2"/>
    </properties>
   </object>
-  <object id="19" name="G2" x="725" y="233" width="32" height="30">
+  <object id="19" name="G2" x="120" y="265" width="32" height="30">
    <properties>
     <property name="id" value="2"/>
    </properties>
   </object>
-  <object id="20" name="G2" x="619" y="223" width="32" height="30">
+  <object id="22" name="B2" x="224" y="245" width="40" height="40">
    <properties>
-    <property name="id" value="2"/>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="23" name="B2" x="386" y="253" width="40" height="40">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="24" name="B2" x="496" y="253" width="40" height="40">
+   <properties>
+    <property name="id" value="11"/>
+   </properties>
+  </object>
+  <object id="25" name="B2" x="664" y="243" width="40" height="40">
+   <properties>
+    <property name="id" value="11"/>
    </properties>
   </object>
  </objectgroup>
